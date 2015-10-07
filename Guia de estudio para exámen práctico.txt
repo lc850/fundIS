@@ -1,0 +1,4 @@
+Guia de estudio para exámen práctico.
+- Libro Ingeniería de software 9
+	- Página (24 de 792) a (28 de 792)
+	- Ingeniería de requisitos (Presentación ppt del repositorio)
